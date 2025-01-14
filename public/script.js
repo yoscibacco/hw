@@ -1,4 +1,4 @@
-const apiUrl = 'http://localhost:3000';
+const apiUrl = '/';
 
 // Kayıt işlemi
 const form = document.getElementById('carForm');
