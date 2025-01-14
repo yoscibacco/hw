@@ -1,4 +1,4 @@
-const apiUrl = '${window.location.origin}';
+const apiUrl = 'https://hw-9de6bqvev-yoscibaccos-projects.vercel.app';
 
 // Kayıt işlemi
 const form = document.getElementById('carForm');
