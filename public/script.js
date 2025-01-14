@@ -1,4 +1,4 @@
-const apiUrl = '/';
+const apiUrl = '${window.location.origin}';
 
 // Kayıt işlemi
 const form = document.getElementById('carForm');
